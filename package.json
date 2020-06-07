@@ -25,9 +25,9 @@
   "dependencies": {
     "azure-storage": "^2.10.3",
     "handlebars": "^4.7.6",
-     "hapi": "npm:@hapi/hapi@18.x.x",
-    "hoek": "^9.0.4",
-    "inert": "^6.1.0",
-    "vision": "^6.0.0"
+    "hapi": "npm:@hapi/hapi@18.x.x",
+     "hoek": "npm:@hapi/hoek@9.x.x",
+  "inert": "npm:@hapi/inert@6.x.x",
+  "vision": "npm:@hapi/vision@6.x.x"
   }
 }
